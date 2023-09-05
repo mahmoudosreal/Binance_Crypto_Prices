@@ -1,8 +1,6 @@
 ```markdown
 # Binance API Cryptocurrency Price Checker
 
-![Binance Logo](https://www.binance.com/assets/img/logo-navbar.png)
-
 A Node.js script for fetching real-time cryptocurrency and token prices from the Binance API. Stay updated with the latest market data effortlessly.
 
 ## Table of Contents
