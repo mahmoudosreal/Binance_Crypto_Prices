@@ -7,8 +7,8 @@ A Node.js script for fetching real-time cryptocurrency and token prices from the
 
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
+- [Installation](#installation)
+- [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
