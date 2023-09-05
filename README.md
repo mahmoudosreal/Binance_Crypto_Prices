@@ -1,5 +1,6 @@
-```markdown
 # Binance API Cryptocurrency Price Checker
+
+![Binance Logo](https://1000logos.net/wp-content/uploads/2022/03/Binance-logo.png)
 
 A Node.js script for fetching real-time cryptocurrency and token prices from the Binance API. Stay updated with the latest market data effortlessly.
 
@@ -23,7 +24,6 @@ Before you start, ensure you meet the following requirements:
 ## Getting Started
 
 ### Installation
-
 
 1. Clone the repository to your local machine:
 
@@ -79,6 +79,5 @@ Contributions are welcome! Feel free to open issues and submit pull requests to 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
 Remember to replace `'YOUR_API_KEY'` and `'YOUR_API_SECRET'` with your actual Binance API credentials. You can also include a `CONTRIBUTING.md` file with detailed guidelines for contributors if you plan to collaborate on the project.
